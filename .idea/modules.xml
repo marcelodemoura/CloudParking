@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Cloud-Parking.iml" filepath="$PROJECT_DIR$/.idea/Cloud-Parking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cloud-Parking.Cloud-Parking.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Cloud-Parking.Cloud-Parking.main.iml" />
     </modules>
   </component>
 </project>
